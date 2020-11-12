@@ -1,5 +1,5 @@
 """
-ASGI config for bugtracker project.
+ASGI config for Bug Tracker project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

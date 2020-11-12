@@ -1,5 +1,5 @@
 """
-WSGI config for bugtracker project.
+WSGI config for Bug Tracker project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
