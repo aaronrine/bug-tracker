@@ -1,12 +1,15 @@
 import React from 'react';
+
+import Login from "../Login/Login"
+import ProjectsList from "../ProjectsList/ProjectsList"
+
 import './App.css';
 
 function App() {
   return (
     <div className="App" data-testid="App">
-      <div className="Login" data-testid="Login">
-      </div>
-      <div className="ProjectsList" data-testid="ProjectsList"></div>
+      <Login />
+      <ProjectsList />
     </div>
   );
 }
